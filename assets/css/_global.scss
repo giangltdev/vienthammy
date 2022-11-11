@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Saira', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+ul {
+    list-style: none;
+  }
+
+a {
+    text-decoration: none;
+  }
+
+.container {
+    max-width: 767.98px;
+    margin: 0 auto;
+}
+
